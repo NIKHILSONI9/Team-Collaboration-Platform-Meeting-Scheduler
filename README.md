@@ -1,6 +1,6 @@
-Here’s the **full README code** you can copy and paste directly into your `README.md` file:
 
-```markdown
+
+
 # AI Meeting Scheduler
 
 An AI-powered meeting scheduling platform that allows multiple users to collaborate in real-time, chat, and automatically schedule meetings using AI-based intent detection.  
